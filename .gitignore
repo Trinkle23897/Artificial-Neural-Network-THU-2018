@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+*.zip
+data
+MNIST_data
+*.tex
+*.sty
+*checkpoint*
+.DS_Store
+*.txt
+*.npy
